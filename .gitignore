@@ -1,0 +1,58 @@
+# ===============================
+# ENV FILES (NUNCA SUBIR)
+# ===============================
+.env
+.env.*
+client/.env
+server/.env
+
+# ===============================
+# DEPENDÊNCIAS
+# ===============================
+node_modules
+client/node_modules
+server/node_modules
+
+# ===============================
+# BUILDS
+# ===============================
+dist
+build
+dist-ssr
+client/dist
+client/build
+server/dist
+
+# ===============================
+# LOGS
+# ===============================
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# ===============================
+# CACHE / TEMP
+# ===============================
+.prisma
+*.local
+coverage
+.tmp
+.cache
+
+# ===============================
+# EDITORES / SISTEMA
+# ===============================
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+Thumbs.db
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
