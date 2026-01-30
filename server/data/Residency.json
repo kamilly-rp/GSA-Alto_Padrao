@@ -1,0 +1,42 @@
+{
+  "title": "Paulista",
+  "description": "Casa com ótimo acabamento, bem localizada e pronta para morar.",
+  "price": 500000,
+
+  "business": "LOCACAO",
+  "property": "APARTAMENTO",
+  "highlight": true,
+
+  "address": "jardin, rua 4 - 12",
+  "city": "São Paulo",
+  "region": "Av. Paulista",
+  "country": "BR",
+
+  "image": "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1768398548/uma-casa-com-muitas-janelas-e-uma-vista-para-o-exterior_1103290-58357_ew9gnr.jpg",
+
+  "facilities": {
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "garage": 2,
+    "area": 194
+  },
+
+  "code": "10033",
+  "financing": "Não informado",
+
+  "iptu": null,
+  "downPayment": null,
+
+  "carrossel": [
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764962696/32_09-img_gadp6a.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764962696/32_08-img_vkmepi.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1768398548/minimalist-architecture-space_m5qzhy.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1768398548/minimalist-architecture-space_m5qzhy.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1768398548/minimalist-architecture-space_m5qzhy.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1768398548/minimalist-architecture-space_m5qzhy.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1768398548/minimalist-architecture-space_m5qzhy.jpg"
+  ],
+
+  "userEmail": "kamillyr284@gmail.com"
+}
+
