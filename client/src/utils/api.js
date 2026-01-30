@@ -16,16 +16,22 @@ export const getAllProperties = async (filters = {}) => {
   try {
     const response = await api.get("/residency/allresd", {
       params: {
-        type: filters.negocio || undefined,        // locacao | venda
-        propertyType: filters.tipo || undefined,  // casa | apartamento
-        region: filters.regiao || undefined,      // bairro / região
+        type: filters.negocio || undefined,
+        propertyType: filters.tipo || undefined,
+        region: filters.regiao || undefined,
       },
     });
 
-    return response.data;
+    const data = response.data;
+
+    return Array.isArray(data)
+      ? data
+      : Array.isArray(data?.data)
+      ? data.data
+      : [];
   } catch (error) {
     toast.error("Erro ao carregar imóveis");
-    throw error;
+    return []; // 🔥 evita quebra no frontend
   }
 };
 
@@ -48,9 +54,16 @@ export const getProperty = async (id) => {
 export const getHighlights = async () => {
   try {
     const response = await api.get("/residency/highlights");
-    return response.data;
+
+    const data = response.data;
+
+    return Array.isArray(data)
+      ? data
+      : Array.isArray(data?.data)
+      ? data.data
+      : [];
   } catch (error) {
     toast.error("Erro ao carregar destaques");
-    throw error;
+    return []; // 🔥 evita quebra
   }
 };
