@@ -1,3 +1,4 @@
+[
 {
   "title": "Paulista",
   "description": "Casa com ótimo acabamento, bem localizada e pronta para morar.",
@@ -36,7 +37,269 @@
     "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1768398548/minimalist-architecture-space_m5qzhy.jpg",
     "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1768398548/minimalist-architecture-space_m5qzhy.jpg"
   ],
+  
+  "userEmail": "kamillyr284@gmail.com"
+},
 
+
+{
+  "title": "Itaquera",
+  "description": "Sobrados à venda em Itaquera, com 135m² de área construída (últimas 3 unidades disponíveis), localizados na Rua Paulino Benedito, 165, com 3 dormitórios sendo 1 suíte, sala para 2 ambientes, cozinha, WC, lavabo, garagem para 2 veículos e espaço gourmet com churrasqueira, além de acabamento de alto padrão; valores a partir de R$ 620.000,00, aceita financiamento bancário e permuta por apartamento ou veículo de menor valor como parte de pagamento. Uma excelente oportunidade para quem busca conforto, espaço e valorização na região.",
+  "price": 620000,
+
+  "business": "VENDA",
+  "property": "SOBRADO",
+  "highlight": false,
+
+  "address": "Rua. Paulino Benedito, 165",
+  "city": "São Paulo",
+  "region": "Itaquera",
+  "country": "BR",
+
+  "image": "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770731603/01_01_imovel_fuw66y.jpg",
+
+  "facilities": {
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "garage": 2,
+    "area": "135m²"
+  },
+
+  "code": "1001",
+  "financing": "SIM",
+
+  "iptu": null,
+  "downPayment": null,
+
+  "carrossel": [
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770731609/01_05_imovel_jiclvj.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770731607/01_10_imovel_cfmras.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770731607/01_09_imovel_vi4voc.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770731606/01_07_imovel_ehqr3b.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770731605/01_06_imovel_wxnotb.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770731605/01_04_imovel_ffxr9f.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770731604/01_03_imovel_i8eycw.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770731603/01_02_imovel_wd0ph6.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770731603/01_01_imovel_fuw66y.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/video/upload/v1770731609/01_11_video_imovel_t4a1fn.mp4",
+    "https://res.cloudinary.com/dfwzpqhaz/video/upload/v1770731608/01_08__video_imovel_u1xxyf.mp4"
+    
+  ],
+  
+  "userEmail": "kamillyr284@gmail.com"
+},
+
+
+{
+  "title": "Artur Alvim",
+  "description": "Sobrados à venda no Artur Alvim, na Rua Juazeiro do Norte, com 135m² de área construída (últimas 3 unidades), 3 dormitórios com opção de 1 ou 3 suítes, sala para 2 ambientes, cozinha, WC, lavabo, jardim de inverno, sacada/varanda com vidro, garagem para 2 veículos, espaço gourmet com churrasqueira e um depósito de 80m² com múltiplas possibilidades, além de acabamento de alto padrão; valores a partir de R$ 700.000,00, aceita financiamento bancário e permuta por apartamento ou veículo de menor valor — uma oportunidade para quem busca espaço, sofisticação e potencial de valorização.",
+  "price": 700000,
+
+  "business": "VENDA",
+  "property": "SOBRADO",
+  "highlight": true,
+
+  "address": "Rua: Juazeiro Do Norte",
+  "city": "São Paulo",
+  "region": "Artur Alvim",
+  "country": "BR",
+
+  "image": "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770731612/02_09_imovel_fpm8uf.jpg",
+
+  "facilities": {
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "garage": 2,
+    "area": "135m²"
+  },
+
+  "code": "1002",
+  "financing": "SIM",
+
+  "iptu": null,
+  "downPayment": null,
+
+  "carrossel": [
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770731612/02_09_imovel_fpm8uf.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770731613/02_13_imovel_jh6qcc.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770731610/02_06_imovel_yu4r2w.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770731610/02_05_imovel_f7o7bm.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770731609/02_03_imovel_oblhxf.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770731609/02_04_imovel_brjrri.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770731608/02_02_imovel_frye4a.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770731608/02_01_imovel_vdi7hb.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770731612/02_10_imovel_h2ntbz.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770731612/02_08_imovel_kzsf6d.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770731613/02_11_imovel_jwhabn.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770731613/02_12_imovel_jui3se.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770731614/02_14_imovel_ire4wx.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770731614/02_15_imovel_kzc7aa.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770731614/02_07_imovel_zdfut0.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770731615/02_16_imovel_oj0cp7.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/video/upload/v1770731618/02_17_video_imovel_rcjofq.mp4"
+
+  ],
+  
+  "userEmail": "kamillyr284@gmail.com"
+},
+
+
+{
+  "title": "Tatuapé",
+  "description": "Apartamento mobiliado no Tatuapé, na Rua Coryntho Baldoino Costa, por R$ 1.250.000,00, localizado no 21º andar com vista privilegiada, 82m² de área útil (104m² total), 2 dormitórios sendo 1 suíte, cozinha planejada, varanda gourmet e 2 vagas de garagem cobertas; condomínio completo com playground, salão de festas, piscina adulto e infantil, salão de jogos, academia, sauna, quadra poliesportiva e portaria 24h, condomínio R$ 660,00 e IPTU R$ 284,00 — uma excelente opção para quem busca conforto, lazer e localização estratégica. Agende sua visita!",
+  "price": 1250000,
+
+  "business": "VENDA",
+  "property": "APARTAMENTO",
+  "highlight": true,
+
+  "address": "Rua: Coryntho Baldoino Costa - Tatuapé",
+  "city": "São Paulo",
+  "region": "Tatuapé",
+  "country": "BR",
+
+  "image": "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770731591/03_09_imovel_w7g5au.jpg",
+
+  "facilities": {
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "garage": 2,
+    "area": "104m²"
+  },
+
+  "code": "1001",
+  "financing": "SIM",
+
+  "iptu": "R$284,00",
+  "downPayment": null,
+
+  "carrossel": [
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770731591/03_09_imovel_w7g5au.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770731589/03_02_imovel_jabsn4.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770731589/03_04_imovel_y9gx7l.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770731589/03_03_imovel_ut23sf.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770731588/03_01_imovel_g04elc.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770731589/03_05_imovel_pcp2kb.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770731589/03_06_imovel_irnn6q.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770731590/03_08_imovel_qio8or.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770731590/03_07_imovel_erfxfv.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770731591/03_11_imovel_uarnot.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770731591/03_10_imovel_pxsekc.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770731592/03_12_imovel_qypbkx.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770731592/03_13_imovel_h3hi4s.jpg"
+
+  ],
+  
+  "userEmail": "kamillyr284@gmail.com"
+},
+
+{
+  "title": "Carrão",
+  "description": "Apartamento de 55m², porteira fechada, por R$ 580.000,00, localizado na Avenida Vereador Emílio Meneghini, 357. Vila Antonieta, São Paulo/SP. Em condomínio com lazer completo e vaga de garagem; uma excelente oportunidade para quem busca praticidade, conforto e imóvel pronto para morar em uma ótima localização.",
+  "price": 580000,
+
+  "business": "VENDA",
+  "property": "APARTAMENTO",
+  "highlight": true,
+
+  "address": " Avenida: Vereador Emílio Meneghini, 357 - Vila Antonieta/ São Paulo-SP 03474017",
+  "city": "São Paulo",
+  "region": "Carrão",
+  "country": "BR",
+
+  "image": "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770731599/04_10_imovel_s8h6eh.jpg",
+
+  "facilities": {
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "garage": 1,
+    "area": "55m²"
+  },
+
+  "code": "1004",
+  "financing": "Não informado",
+
+  "iptu": null,
+  "downPayment": null,
+
+  "carrossel": [
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770731601/04_13_imovel_ilwnfq.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770731600/04_12_imovel_gkupfr.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770731601/04_14_imovel_lqz1i6.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770731602/04_15_imovel_zbzrsv.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770731602/04_16_imovel_sh4dd0.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770731603/04_17_imovel_ce3i2b.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770731599/04_10_imovel_s8h6eh.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770731599/04_09_imovel_mjjywy.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770731598/04_08_imovel_aw4lev.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770731598/04_07_imovel_pisq4y.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770731598/04_06_imovel_dy4upm.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770731597/04_05_imovel_tjzvr8.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770731596/04_04_imovel_laqoxm.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770731596/04_03_imovel_pbs39i.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770731596/04_02_imovel_kraxqz.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770731595/04_01_imovel_iuaycf.jpg"
+  ],
+  
+  "userEmail": "kamillyr284@gmail.com"
+},
+
+{
+  "title": "Itaquera",
+  "description": "Sobrados à venda em Itaquera, com 135m² de área construída (últimas 3 unidades disponíveis), localizados na Rua Paulino Benedito, 165, com 3 dormitórios sendo 1 suíte, sala para 2 ambientes, cozinha, WC, lavabo, garagem para 2 veículos e espaço gourmet com churrasqueira, além de acabamento de alto padrão; valores a partir de R$ 620.000,00, aceita financiamento bancário e permuta por apartamento ou veículo de menor valor como parte de pagamento. Uma excelente oportunidade para quem busca conforto, espaço e valorização na região.",
+  "price": 620000,
+
+  "business": "VENDA",
+  "property": "SOBRADO",
+  "highlight": false,
+
+  "address": "Rua. Paulino Benedito, 165",
+  "city": "São Paulo",
+  "region": "Itaquera",
+  "country": "BR",
+
+  "image": "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770731603/01_01_imovel_fuw66y.jpg",
+
+  "facilities": {
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "garage": 2,
+    "area": "135m²"
+  },
+
+  "code": "1001",
+  "financing": "SIM",
+
+  "iptu": null,
+  "downPayment": null,
+
+  "carrossel": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  
   "userEmail": "kamillyr284@gmail.com"
 }
+
+
+
+
+
+
+
+
+]
+
+
 
