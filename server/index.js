@@ -19,6 +19,8 @@ const allowedOrigins = [
   'http://localhost:5174',
   'http://localhost:3000',
   'https://gsaimoveis.com.br',
+  'https://www.gsaimoveis.com.br',
+  'https://gsa-alto-padrao.vercel.app',
 ];
 
 app.use(

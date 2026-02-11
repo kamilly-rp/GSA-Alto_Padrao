@@ -14,7 +14,7 @@
 .card-imovel img {
   width: 110%;
   height: 390px;
-  object-fit: cover;
+  object-fit: fill;     /* força padronização esticando se necessário */
   border-radius: 0;
 }
 
