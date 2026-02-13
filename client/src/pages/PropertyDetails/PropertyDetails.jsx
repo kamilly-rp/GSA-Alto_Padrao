@@ -26,7 +26,7 @@ const PaginaDoImovel = ({ id }) => {
   return (
     <div>
       <h1>{residency.title}</h1>
-      <ImovelCarrossel imagens={residency.carrossel} />
+      <ImageCarousel imagens={residency.carrossel} />
     </div>
   );
 };

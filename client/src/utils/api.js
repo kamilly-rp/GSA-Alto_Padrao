@@ -31,7 +31,7 @@ export const getAllProperties = async (filters = {}) => {
       : [];
   } catch (error) {
     toast.error("Erro ao carregar imóveis");
-    return []; // 🔥 evita quebra no frontend
+    return []; //  evita quebra no frontend
   }
 };
 
@@ -64,6 +64,6 @@ export const getHighlights = async () => {
       : [];
   } catch (error) {
     toast.error("Erro ao carregar destaques");
-    return []; // 🔥 evita quebra
+    return []; //  evita quebra
   }
 };

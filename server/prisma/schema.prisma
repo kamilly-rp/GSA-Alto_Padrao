@@ -7,7 +7,7 @@ generator client {
 
 datasource db {
   provider = "mongodb"
-  url      = env("DATABASE_URL") // precisa existir no .env
+  url = env("MONGO_URL") // precisa existir no .env
 }
 
 model User {
