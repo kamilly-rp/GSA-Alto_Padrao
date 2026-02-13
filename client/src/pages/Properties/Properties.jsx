@@ -16,67 +16,29 @@ const normalize = (value) =>
 const Properties = () => {
   const { data, isError, isLoading } = useProperties();
   const [filteredData, setFilteredData] = useState([]);
-  const [initialFilterApplied, setInitialFilterApplied] = useState(false);
+  const [lastFilters, setLastFilters] = useState(null);
 
   const [searchParams] = useSearchParams();
 
-  // 🔹 aplica filtro da HOME UMA ÚNICA VEZ
-  useEffect(() => {
-    if (!data || initialFilterApplied) return;
+  // 🔹 FUNÇÃO CENTRAL DE FILTRO (única fonte de verdade)
+  const applyFilters = (baseData, filters) => {
+    let result = baseData;
 
-    let result = data;
-
-    const business = searchParams.get("business");
-    const property = searchParams.get("property");
-    const region = searchParams.get("region");
-
-    if (business) {
-      result = result.filter(
-        (item) =>
-          normalize(item.business) === normalize(business)
-      );
-    }
-
-    if (property) {
-      result = result.filter(
-        (item) =>
-          normalize(item.property) === normalize(property)
-      );
-    }
-
-    if (region) {
-      const r = normalize(region);
-      result = result.filter(
-        (item) =>
-          normalize(item.region)?.includes(r)
-      );
-    }
-
-    setFilteredData(result);
-    setInitialFilterApplied(true);
-  }, [data, searchParams, initialFilterApplied]);
-
-  // 🔹 filtro da SEARCHBAR (manda em tudo depois)
-  const handleSearch = (filters) => {
-    if (!data) return;
-
-    let result = data;
-
-    if (filters.negocio) {
+    if (filters?.negocio) {
       result = result.filter(
         (item) =>
           normalize(item.business) === normalize(filters.negocio)
       );
     }
 
-    if (filters.tipo) {
+    if (filters?.tipo) {
       result = result.filter(
         (item) =>
           normalize(item.property) === normalize(filters.tipo)
       );
     }
 
-    if (filters.regiao) {
+    if (filters?.regiao) {
       const region = normalize(filters.regiao);
       result = result.filter(
         (item) =>
@@ -84,6 +46,47 @@ const Properties = () => {
       );
     }
 
+    return result;
+  };
+
+  // 🔹 Sempre que data OU searchParams mudarem → aplicar filtro
+  useEffect(() => {
+    if (!data) return;
+
+    const business = searchParams.get("business");
+    const property = searchParams.get("property");
+    const region = searchParams.get("region");
+
+    // Se veio da HOME
+    if (business || property || region) {
+      const homeFilters = {
+        negocio: business || "",
+        tipo: property || "",
+        regiao: region || "",
+      };
+
+      setLastFilters(homeFilters);
+      const result = applyFilters(data, homeFilters);
+      setFilteredData(result);
+    }
+    // Se veio de filtro interno
+    else if (lastFilters) {
+      const result = applyFilters(data, lastFilters);
+      setFilteredData(result);
+    }
+    // Se não há filtro → mostra tudo
+    else {
+      setFilteredData(data);
+    }
+
+  }, [data, searchParams]);
+
+  // 🔹 Filtro interno da SearchBar
+  const handleSearch = (filters) => {
+    if (!data) return;
+
+    setLastFilters(filters);
+    const result = applyFilters(data, filters);
     setFilteredData(result);
   };
 
@@ -95,7 +98,7 @@ const Properties = () => {
     );
   }
 
-  if (isLoading || !initialFilterApplied) {
+  if (isLoading) {
     return (
       <div className="wrapper flexCenter" style={{ height: "60vh" }}>
         <PuffLoader color="#4066ff" />
