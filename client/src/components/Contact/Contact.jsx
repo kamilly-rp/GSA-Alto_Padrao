@@ -30,10 +30,10 @@ const Contact = () => {
                   </div>
                   <div className="flexColStart detail">
                     <span className="primaryText">Ligue</span>
-                    <span className="secondaryText">(11) 3042-2831</span>
+                    <span className="secondaryText">(11) 94079-1625</span>
                   </div>
                 </div>
-                <a href="tel:+55(11)30422831" className="flexCenter button">Ligue Agora</a>
+                <a href="tel:+55(11)94079-1625" className="flexCenter button">Ligue Agora</a>
               </div>
 
               <div className="flexColCenter mode">
@@ -43,10 +43,10 @@ const Contact = () => {
                   </div>
                   <div className="flexColStart detail">
                     <span className="primaryText">WhatsApp</span>
-                    <span className="secondaryText">(11) 3042-2831</span>
+                    <span className="secondaryText">(11) 94079-1625</span>
                   </div>
                 </div>
-                <a href="https://wa.me/551130422831?text=Ol%C3%A1%2C%20vim%20pelo%20site.%0AGostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20a%20compra%20de%20im%C3%B3veis!" target="_blank" rel="noopener noreferrer" className="flexCenter button">Fale Agora</a>
+                <a href="https://wa.me/5511940791625?text=Ol%C3%A1%2C%20vim%20pelo%20site.%0AGostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20a%20compra%20de%20im%C3%B3veis!" target="_blank" rel="noopener noreferrer" className="flexCenter button">Fale Agora</a>
               </div>
             </div>
 

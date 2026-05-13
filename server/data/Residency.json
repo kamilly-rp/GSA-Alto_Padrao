@@ -246,51 +246,307 @@
 
 {
   "title": "Itaquera",
-  "description": "Sobrados à venda em Itaquera, com 135m² de área construída (últimas 3 unidades disponíveis), localizados na Rua Paulino Benedito, 165, com 3 dormitórios sendo 1 suíte, sala para 2 ambientes, cozinha, WC, lavabo, garagem para 2 veículos e espaço gourmet com churrasqueira, além de acabamento de alto padrão; valores a partir de R$ 620.000,00, aceita financiamento bancário e permuta por apartamento ou veículo de menor valor como parte de pagamento. Uma excelente oportunidade para quem busca conforto, espaço e valorização na região.",
-  "price": 620000,
+  "description": "Apartamento Garden à venda em Itaquera por R$ 485.000,00, aceita financiamento, com 1 vaga fixa demarcada e localizado em condomínio com lazer completo — uma excelente oportunidade para quem busca mais espaço privativo, conforto e qualidade de vida em uma das regiões mais valorizadas da zona leste.",
+  "price": 485000,
 
   "business": "VENDA",
-  "property": "SOBRADO",
-  "highlight": false,
+  "property": "APARTAMENTO",
+  "highlight": true,
 
-  "address": "Rua. Paulino Benedito, 165",
+  "address": "Itaquera",
   "city": "São Paulo",
   "region": "Itaquera",
   "country": "BR",
 
-  "image": "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770731603/01_01_imovel_fuw66y.jpg",
+  "image": "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770993395/05_07_imovel_rg50qp.jpg",
 
   "facilities": {
-    "bedrooms": 3,
+    "bedrooms": 2,
     "bathrooms": 1,
-    "garage": 2,
-    "area": "135m²"
+    "garage": 1,
+    "area": "m²"
   },
 
-  "code": "1001",
+  "code": "1005",
   "financing": "SIM",
 
   "iptu": null,
   "downPayment": null,
 
   "carrossel": [
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    ""
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770993395/05_07_imovel_rg50qp.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770993395/05_02_imovel_rqrtnv.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770993395/05_03_imovel_vf0han.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770993392/05_01_imovel_uou7od.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770993391/05_04_imovel_c2wz49.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770993389/05_05_imovel_iozo1c.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/video/upload/v1770993394/05_08_video_tmdtu6.mp4"
+  ],
+  
+  "userEmail": "kamillyr284@gmail.com"
+},
+
+{
+  "title": "Itanhaém ",
+  "description": "Casa à venda em Itanhaém, no Cibratel 2, lado praia e a apenas 600 metros do mar, perfeita para quem busca lazer e qualidade de vida. O imóvel conta com piscina e 3 dormitórios, ideal para morar ou curtir momentos em família no litoral. IPTU 2026 totalmente pago, trazendo mais tranquilidade na compra. Valor de R$ 180.000,00 à vista ou R$ 190.000,00 com possibilidade de aceitar carro, além de saldo devedor de R$ 267.760,96 e parcela de aproximadamente R$ 3.000,00, uma excelente oportunidade para adquirir uma casa na praia com ótimo potencial de valorização.",
+  "price": 190000,
+
+  "business": "CASA",
+  "property": "APARTAMENTO",
+  "highlight": true,
+
+  "address": "Itanhaém",
+  "city": "São Paulo",
+  "region": "Itanhaém",
+  "country": "BR",
+
+  "image": "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1771613875/06_12-img_sdetfr.jpg",
+
+  "facilities": {
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "garage": 1,
+    "area": "m²"
+  },
+
+  "code": "1006",
+  "financing": "SIM",
+
+  "iptu": null,
+  "downPayment": null,
+
+  "carrossel": [
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1771613877/06_13-img_j3jfvu.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1771613877/06_15-img_aj2xwa.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1771613877/06_14-img_nv0rrc.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1771613875/06_12-img_sdetfr.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1771613875/06_11-img_mb1nst.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1771613874/06_10-img_nkd5wp.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1771613873/06_09-img_upjaeq.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1771613873/06_08-img_rzkn1z.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1771613871/06_06-img_bymche.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1771613871/06_05-img_cjg4lv.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1771613870/06_04-img_hviwey.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1771613870/06_03-img_bxpluc.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1771613869/06_02-img_f3sa6r.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1771613869/06_01-img_bkfcyv.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/video/upload/v1771613889/06_07-video_w2sngk.mp4"
+  ],
+  
+  "userEmail": "kamillyr284@gmail.com"
+},
+
+{
+  "title": "Artur Alvim",
+  "description": "3 ÚLTIMAS UNIDADES | SOBRADOS DE ALTO PADRÃO NO ARTUR ALVIM — um projeto exclusivo para quem busca conforto, espaço e acabamento diferenciado em uma localização estratégica, com fácil acesso à Av. Radial Leste e Av. Tiquatira; opções de plantas com 120m² (3 dormitórios, sendo 1 suíte, 2 vagas) por R$ 750 mil, 145m² (3 suítes, 2 vagas) por R$ 880 mil e 170m² (3 suítes, 4 vagas) por R$ 960 mil, todos com espaço gourmet com churrasqueira, jardim de inverno, sala para 2 ambientes, cozinha integrada, varanda com fechamento em vidro, paisagismo, depósito privativo, infraestrutura para ar-condicionado, acabamento em porcelanato e granito, teto rebaixado e iluminação em LED — aceitamos permuta e avaliamos seu imóvel ou veículo como parte de pagamento; entrega prevista para abril de 2026, uma oportunidade única para morar com alto padrão e excelente valorização.",
+  "price": 750000,
+
+  "business": "VENDA",
+  "property": "SOBRADO",
+  "highlight": true,
+
+  "address": "Artur Alvim",
+  "city": "São Paulo",
+  "region": "Artur Alvim",
+  "country": "BR",
+
+  "image": "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1774468125/08_03_img_apjf0f.jpg",
+
+  "facilities": {
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "garage": 2,
+    "area": "120m²"
+  },
+
+  "code": "1007",
+  "financing": "SIM",
+
+  "iptu": null,
+  "downPayment": null,
+
+  "carrossel": [
+   
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1774468148/08_19_img_oss8v0.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1774468147/08_18_img_nsgghv.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1774468145/08_17_img_nhnvgw.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1774468144/08_16_img_huier8.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1774468143/08_15_img_e7wgkc.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1774468141/08_14_img_ezhu2x.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1774468140/08_13_img_hgvrtp.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1774468138/08_12_img_its1d2.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1774468137/08_11_img_a9etqq.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1774468135/08_10_img_nj0x7q.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1774468134/08_09_img_eyofmq.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1774468133/08_08_img_xxrak3.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1774468131/08_07_img_zawk8m.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1774468130/08_06_img_wqnkoe.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1774468128/08_05_img_uqw2dp.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1774468127/08_04_img_tsqoze.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1774468125/08_03_img_apjf0f.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1774468124/08_02_img_wjxc2p.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/video/upload/v1774468732/videio_08_reljn7.mp4"
+  ],
+  
+  "userEmail": "kamillyr284@gmail.com"
+},
+
+{
+  "title": "Vila Matilde",
+  "description": "APARTAMENTO PARA VENDA NA REGIÃO DA VILA MATILDE. Uma oportunidade exclusiva para quem busca conforto, sofisticação e uma vista incrível! Localizado no 22º andar, este apartamento de 73m² oferece um ambiente moderno e bem distribuído, além de contar com 2 vagas de garagem e lazer completo para toda a família aproveitar ao máximo. Valor de R$ 950.000,00, com a possibilidade de entrada de R$ 360.000,00 + assumir o financiamento. Uma excelente condição para facilitar sua conquista! Entre em contato agora mesmo e agende sua visita, seu novo lar pode estar aqui!",
+  "price": 950000,
+
+  "business": "VENDA",
+  "property": "APARTAMENTO",
+  "highlight": true,
+
+  "address": "Vila Matilde - São Paulo",
+  "city": "São Paulo",
+  "region": "São Paulo",
+  "country": "BR",
+
+  "image": "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1775845194/09_capa_img_htclgm.jpg",
+
+  "facilities": {
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "garage": 2,
+    "area": "73m²"
+  },
+
+  "code": "1009",
+  "financing": "SIM",
+
+  "iptu": null,
+  "downPayment": null,
+
+  "carrossel": [
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1775843958/09_09_img_iu76a8.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1775843966/09_16_img_ldpku4.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1775843965/09_15_img_uuh5hp.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1775843964/09_14_img_oev5s4.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1775843963/09_13_img_qg6b1b.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1775843962/09_12_img_ohsq7b.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1775843961/09_11_img_okudmm.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1775843959/09_10_img_eh1wl0.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1775843958/09_09_img_iu76a8.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1775843957/09_08_img_gu2jsr.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1775843955/09_07_img_l0by1k.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1775843954/09_06_img_th3guu.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1775843954/09_05_img_ktgtz5.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1775843952/09_04_img_iuuyy5.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1775843952/09_03_img_vxpqx0.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1775843951/09_02_img_dn4fgp.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1775843951/09_01_img_rs0utd.jpg"
+  ],
+  
+  "userEmail": "kamillyr284@gmail.com"
+},
+
+{
+  "title": "Aricanduva",
+  "description": "AP 3 DORMS | SACADA GOURMET | ANDAR ALTO.  Zona Leste / Aricanduva / Carrão. Cond. Canadá, Av. Belarmino Ferreira (Av. Aricanduva). Apartamento com 64m², 3 dormitórios, sacada gourmet, 2 banheiros, 1 vaga de carro + 1 de moto, localizado no 6º andar com vista livre. Possui móveis planejados, cooktop, forno e infraestrutura para ar-condicionado. Condomínio completo com piscina, academia, quadra, salão e mercadinho. Valor de R$ 550.000,00 e aceita carro como parte do pagamento.",
+  "price": 550000,
+
+  "business": "VENDA",
+  "property": "APARTAMENTO",
+  "highlight": true,
+
+  "address": "Aricanduva",
+  "city": "São Paulo",
+  "region": "São Paulo",
+  "country": "BR",
+
+  "image": "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1778019253/75_12_img_nboxga.jpg",
+
+  "facilities": {
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "garage": 2,
+    "area": "65m²"
+  },
+
+  "code": "1010",
+  "financing": "SIM",
+
+  "iptu": null,
+  "downPayment": null,
+
+  "carrossel": [
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1778019253/75_12_img_nboxga.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1778019252/75_02_img_wawxqa.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1778019254/75_13_img_t5jrjh.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1778019254/75_14_img_mpzmmo.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1778019254/75_15_img_kberdo.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1778019264/75_16_img_edvllk.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1778019264/75_17_img_duhlvd.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1778019264/75_18_img_pfewfd.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1778019271/75_22_img_gme6sl.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1778019265/75_21_img_nceh7g.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1778019265/75_19_img_clgsht.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1778019252/75_03_img_bxwuvr.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1778019252/75_07_img_nhc1bk.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1778019252/75_08_img_vyrock.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1778019252/75_04_img_k13ntk.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1778019253/75_05_img_tyvydj.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1778019253/75_06_img_cyhhxg.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1778019253/75_09_img_jiw07z.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1778019253/75_10_img_gyvkle.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1778019253/75_11_img_z0mnfg.jpg"
+  ],
+  
+  "userEmail": "kamillyr284@gmail.com"
+},
+
+{
+  "title": "Itaquera",
+  "description": "MANSÃO PARA VENDA EM ITAQUERA. Imóvel amplo, sofisticado e perfeito para quem busca conforto, espaço e exclusividade! São 379m² de área construída, 5 quartos sendo 1 suíte, além de 5 vagas de garagem. Uma excelente oportunidade para quem deseja morar com qualidade em uma das regiões mais valorizadas de Itaquera. Valor de venda: R$ 1.600.000,00 | IPTU: 12x de R$ 167. Para mais informações, entre em contato!",
+  "price": 1600000,
+
+  "business": "VENDA",
+  "property": "SOBRADO",
+  "highlight": true,
+
+  "address": "Itaquera",
+  "city": "São Paulo",
+  "region": "São Paulo",
+  "country": "BR",
+
+  "image": "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1778507957/10_07_img_zluluh.jpg",
+
+  "facilities": {
+    "bedrooms": 5,
+    "bathrooms": 2,
+    "garage": 5,
+    "area": "379m²"
+  },
+
+  "code": "1011",
+  "financing": "Não informado",
+
+  "iptu": 2004,
+  "downPayment": null,
+
+  "carrossel": [
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1778507954/10_04_img_zzka51.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1778507954/10_03_img_p9gfga.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1778507956/10_05_img_opcmee.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1778507957/10_07_img_zluluh.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1778507958/10_08_img_wmjr6h.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1778507959/10_10_img_xvunj6.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1778507960/10_11_img_vbytfm.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1778507960/10_12_img_mb92ma.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1778507961/10_13_img_vgqqrg.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1778507958/10_09_img_scmzwd.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1778507956/10_06_img_f6agjb.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1778507954/10_02_img_hkxtyn.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1778507954/10_01_img_rsjyc9.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/video/upload/v1778507965/10_14_video_xjvyjj.mp4"
   ],
   
   "userEmail": "kamillyr284@gmail.com"
 }
+
 
 
 

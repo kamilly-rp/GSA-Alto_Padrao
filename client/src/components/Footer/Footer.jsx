@@ -25,7 +25,7 @@ const Footer = () => {
           <span className="secondaryText">
            <a href="https://www.instagram.com/gsaimobiliaria/" className="secondaryTextLink">Instagram</a> <br />
             <a 
-              href="https://mail.google.com/mail/?view=cm&fs=1&to=negociosimobiliariosgsa@gmail.com" 
+              href="https://mail.google.com/mail/?view=cm&fs=1&to=gsa.imobiliaria2@gmail.com" 
               target="_blank" 
               rel="noopener noreferrer"
             >
